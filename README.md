@@ -4,7 +4,7 @@
 
 Site institucional da **EBS REVEST**, especializada em revestimento e recuperação de cilindros para máquinas offset e aplicações industriais.
 
-**Acesse o site:** [ebsrevest.com.br](https://www.ebsrevest.com.br/)
+**Acesse o site:** https://www.ebsrevest.com.br
 
 ## Tecnologias
 
