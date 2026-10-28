@@ -21,7 +21,7 @@ const About = () => (
 
         <div className="lg:w-7/12">
           <h2 className="text-sm font-bold text-blue-600 uppercase tracking-widest mb-3">Quem Somos</h2>
-          <h3 className="text-2xl xl:text-3xl font-bold text-slate-900 mb-6 leading-tight xl:whitespace-nowrap">
+          <h3 className="text-xl lg:text-2xl xl:text-2xl font-bold text-slate-900 mb-6 leading-tight xl:whitespace-nowrap">
             Especialistas em Revestimento de Cilindros offset e industriais
           </h3>
 
